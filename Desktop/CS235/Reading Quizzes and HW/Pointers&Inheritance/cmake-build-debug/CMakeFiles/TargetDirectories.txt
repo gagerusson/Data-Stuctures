@@ -1,0 +1,3 @@
+C:/Users/coler/Desktop/CS235/Reading Quizzes and HW/Pointers&Inheritance/cmake-build-debug/CMakeFiles/Pointers_Inheritance.dir
+C:/Users/coler/Desktop/CS235/Reading Quizzes and HW/Pointers&Inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/coler/Desktop/CS235/Reading Quizzes and HW/Pointers&Inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
